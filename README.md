@@ -20,4 +20,11 @@ The machine learning algorithms I utilized in this project include:
   
 This project allow me to gain a deeper understanding of machine learning with python and of the scikit-learn library. More precisely, I focused my attention on the training of the algorithms. I was able to improve the accuracy of the algorithms by implementing new techniques (cross-validation, and grid search), this allowed me to keep refining the hyperparameters and achieve the best result possible. 
 
+### Files Descriptions
+* **Predicting Stock Prices Trend.ipynb**: Jupyter Notework of the project
+* **stock_values_train.csv**: datasets of 100 well-known stock indices, with different stock metrics across a one year period (adjusted close value, close value, High, Low, Open, Volume);
+* **stock_tweets_train.csv**: datasets of tweets about stock indices and the stocks they relate too;
+* **test_samples.pkl**: pickle file that include a list of touples of dataset: first dataset is stock values for a 10/15 day period of a stock index, and the second dataset include tweets on that stock index of the same period; 
+* **test_samples_raw.pkl**: ickle file that include a list of touples of dataset: first dataset is percent change of stock values for a 10/15 day period of a stock index, and the second dataset include tweets on that stock index of the same period; 
+
 
