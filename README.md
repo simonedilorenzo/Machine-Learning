@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-In this machine learning project, I explored the main machine learning algorithms included in the scikit-learn library. The goal of the project is to predict the future price movement of stocks based on historical data, specifically focusing on the past 10-day trend in closing values of the stocks. In addition I decided to implement two techniques  that nsured a robust and efficient model development, I implemented the following techniques:
+In this machine learning project, I explored the main machine learning algorithms included in the scikit-learn library. The goal of the project is to predict the future price movement of stocks based on historical data, specifically focusing on the past 10-day trend in closing values of the stocks. In addition I decided to implement two techniques  that ensured a robust and efficient model development, I implemented the following techniques:
 
 * **Pipelines**: I leveraged pipelines to streamline the machine learning workflow. This allowed for the seamless integration of data preprocessing steps (i.e., scaling), feature engineering, and model training, making the entire process more organized and reproducible.
 
